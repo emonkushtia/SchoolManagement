@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Docker Tutorials\\Udemy - Docker and Kubernetes The Complete Guide\\SchoolManagement\\Web\\Web.csproj",
+      "projectUniqueName": "F:\\Docker Tutorials\\SchoolManagement\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "F:\\Docker Tutorials\\Udemy - Docker and Kubernetes The Complete Guide\\SchoolManagement\\Web\\Web.csproj",
+      "projectPath": "F:\\Docker Tutorials\\SchoolManagement\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\emon\\.nuget\\packages\\",
-      "outputPath": "F:\\Docker Tutorials\\Udemy - Docker and Kubernetes The Complete Guide\\SchoolManagement\\Web\\obj\\",
+      "outputPath": "F:\\Docker Tutorials\\SchoolManagement\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

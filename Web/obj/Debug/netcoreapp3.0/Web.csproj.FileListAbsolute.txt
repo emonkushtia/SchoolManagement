@@ -7,3 +7,21 @@ F:\Docker Tutorials\Udemy - Docker and Kubernetes The Complete Guide\SchoolManag
 F:\Docker Tutorials\Udemy - Docker and Kubernetes The Complete Guide\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.AssemblyInfoInputs.cache
 F:\Docker Tutorials\Udemy - Docker and Kubernetes The Complete Guide\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.AssemblyInfo.cs
 F:\Docker Tutorials\Udemy - Docker and Kubernetes The Complete Guide\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.RazorTargetAssemblyInfo.cache
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\Web.exe
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\Web.deps.json
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\Web.runtimeconfig.json
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\Web.runtimeconfig.dev.json
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\Web.dll
+F:\Docker Tutorials\SchoolManagement\Web\bin\Debug\netcoreapp3.0\Web.pdb
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.csprojAssemblyReference.cache
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\staticwebassets\Web.StaticWebAssets.xml
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.AssemblyInfoInputs.cache
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.AssemblyInfo.cs
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.RazorTargetAssemblyInfo.cache
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.dll
+F:\Docker Tutorials\SchoolManagement\Web\obj\Debug\netcoreapp3.0\Web.pdb
